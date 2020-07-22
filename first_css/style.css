@@ -1,0 +1,58 @@
+h1 {
+    font-family: 'Courier New';
+    text-align: center;
+    background-color: 	rgb(46, 84, 155);
+    color: 	rgb(254, 203, 7);
+    font-size: 85px;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+
+}
+h2 {
+    text-align: left;
+    font-size: 29.7px;
+    background-color: black;
+    font-family: 'Courier New';
+    color: rgb(255, 255, 255);
+    padding: 5%;
+    border: 0%;
+    margin: 0%;
+
+    
+    
+}
+
+#starters_image_div {
+width
+outline: 3px solid black;
+align-items: center;
+padding-left:80px;
+padding-top: 40px;
+border-color: rgb(0, 0, 0);
+border-spacing: 20px;
+background-color: rgb(0, 0, 0);
+border: 5px solid blue;
+margin-left: 520px;
+margin-right: 540px;
+margin-inline-start: 520px;
+margin-inline-end: 450px;
+}
+
+#bulbasaur_container {
+    border: ridge 5px rgb(140, 197, 142);
+    background-image: rgb(140, 197, 142);
+    
+}
+div {
+    font-size: 35px;
+    font-family: 'Courier New';
+    background-color: black;
+    color: white;
+    margin: 0px;
+    border: 0px;
+    padding: 10px;
+    
+
+}
+
